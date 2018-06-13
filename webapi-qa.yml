@@ -1,0 +1,13 @@
+---
+batch.size: 500
+
+splash:WebAPI-qa says hi!
+
+
+productdbconnstring:'server=webapi-qa;user=service3;password=m(app#!'
+
+#feature flags
+oneclick:on
+
+#logging toggles
+loglevel:all
