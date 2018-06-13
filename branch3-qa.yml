@@ -1,2 +1,13 @@
 ---
 batch.size: 500
+
+splash:Branch3 says hi!
+
+
+productdbconnstring:'server=branch3-qa;user=service3;password=m(app#!'
+
+#feature flags
+oneclick:on
+
+#logging toggles
+loglevel:all
